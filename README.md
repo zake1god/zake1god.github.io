@@ -1,3 +1,3 @@
 # zake1god.github.io
 
-I just test this is work or not 
+Simple and clean portfolio website, powered by HUGO and Paper theme
