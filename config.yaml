@@ -1,6 +1,6 @@
 baseURL: "https://zake1god.github.io"
 languageCode: en-us
-title: Zake
+title: zake
 theme: PaperMod
 
 menu:
@@ -12,15 +12,15 @@ menu:
     - identifier: experience
       name: Experience
       url: /experience
-      weight: 40
+      weight: 20
     - identifier: achievement
       name: Achievement
       url: /achievement
       weight: 30
-    - identifier: terminal
-      name: Terminal
-      url: /Terminal
-      weight: 50
+    - identifier: search
+      name: Search
+      url: search
+      weight: 40
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -42,13 +42,16 @@ params:
   env: production
 
   # Home Page
+  homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
   profileMode:
     enabled: true
-    title: "Zaki Zarkasih Al Mustafa"
-    subtitle: Hi 👋! I'm zake, an Cyber Security Enthusiast, living in Indonesia 🇮🇩. Currently focussing learning Penetration Testing. While doing hacking i'm using Kali Linux as my penetration OS. I graduated from STMIK Palcomtech in May, 2022. But got graduated party in Feb 2023 because my campus upgraded from STMIK to ITB. Previously, I did an internship at Diskominfo, South Sumatra Province, and then took my thesis at KPAI Palembang.<br><br><br>
+    title: " "
+    subtitle: Hi 👋! My name is Zaki Zarkasih Al Mustafa but you can call me zake. Im an Cyber Security Enthusiast from Indonesia 🇮🇩 Currently focussing learning Penetration Testing, but that doesn't mean I haven't learned anything else. <br><br> I studied a bit of BackEnd / FrontEnd / Networking and Graphic Design. Because in the world of the internet everything needs each other. 💻 <br><br> If you have any questions, don't hesitate to find me via the link below. <br><br>
     imageUrl: "home/zakewhite.jpg"
-    imageWidth: 220
-    imageHeight: 220
+    imageWidth: 200
+    imageHeight: 200
     # buttons:
     #   - name: Resume
     #     url: ""
