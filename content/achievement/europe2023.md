@@ -7,10 +7,9 @@ tags: []
 showToc: false
 weight: 304
 --- 
-## Description
+## Cert Europe Eu
 
-Pada bulan juni 2023 saya mencoba mencari kerentanan pada website Europe.eu, beberapa hari setelah saya melakukan riset akhirnya saya menemukan kerentanan yang kemudian langsung saya laporkan ke admin. Kerentanan yang ditemukan hanya information disclosure, namun tetap saja itu adalah kerentanan. Berkat kerentanan yang saya temukan, nama saya masuk di Hall Of Fame dari website mereka.
-
-Europe Hall Of Fame : https://www.cert.europa.eu/hall-of-fame
+In June 2023 I tried to find vulnerabilities on the Europe.eu website, a few days after I did my research I finally found a vulnerability which I immediately reported to the admin. The only vulnerability found is information disclosure, but still it is a vulnerability. Thanks to the vulnerability I found, my name is inducted into the [Hall Of Fame](https://www.cert.europa.eu/hall-of-fame) of their website.
+<br><br>
 
 ![](/achievement/europe2023/Europe2023.jpg)

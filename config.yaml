@@ -1,13 +1,13 @@
 baseURL: "https://zake1god.github.io"
 languageCode: en-us
-title: zake
+title: ZAKE
 theme: PaperMod
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
+    - identifier: about
+      name: About
+      url: about
       weight: 10
     - identifier: experience
       name: Experience
@@ -17,10 +17,10 @@ menu:
       name: Achievement
       url: /achievement
       weight: 30
-    - identifier: search
-      name: Search
-      url: search
-      weight: 40
+    # - identifier: search
+    #   name: Search
+    #   url: search
+    #   weight: 40
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -42,16 +42,16 @@ params:
   env: production
 
   # Home Page
+  # profileMode:
+  #   enabled: true
+  #   title: " "
+  #   subtitle: Hi 👋! My name is **Zaki Zarkasih Al Mustafa** but you can call me zake. Im an Cyber Security Enthusiast from Indonesia 🇮🇩 Currently focussing learning Penetration Testing, but that doesn't mean I haven't learned anything else. <br><br> I studied a bit of BackEnd / FrontEnd / Networking and Graphic Design. Because in the world of the internet everything needs each other. 💻 <br><br> If you have any questions, don't hesitate to find me via the link below. <br><br>
+  #   imageUrl: "home/zakewhite.jpg"
+  #   imageWidth: 200
+  #   imageHeight: 200
   homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
-  profileMode:
-    enabled: true
-    title: " "
-    subtitle: Hi 👋! My name is Zaki Zarkasih Al Mustafa but you can call me zake. Im an Cyber Security Enthusiast from Indonesia 🇮🇩 Currently focussing learning Penetration Testing, but that doesn't mean I haven't learned anything else. <br><br> I studied a bit of BackEnd / FrontEnd / Networking and Graphic Design. Because in the world of the internet everything needs each other. 💻 <br><br> If you have any questions, don't hesitate to find me via the link below. <br><br>
-    imageUrl: "home/zakewhite.jpg"
-    imageWidth: 200
-    imageHeight: 200
+        Title: Welcome! 👋
+        Content: This site contains information about me, my experience, and my achievements. <br> While that's all, it's unlikely that I will blog on this website. If you want to contact me, you can use the link below.
     # buttons:
     #   - name: Resume
     #     url: ""
