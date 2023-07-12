@@ -17,6 +17,10 @@ menu:
       name: Achievement
       url: /achievement
       weight: 30
+    - identifier: contact
+      name: Contact
+      url: contact
+      weight: 40
     # - identifier: search
     #   name: Search
     #   url: search
@@ -32,7 +36,7 @@ menu:
 
 params:
   # theme
-  showToc: true
+  showToc: false
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
