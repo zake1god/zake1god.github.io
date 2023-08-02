@@ -22,5 +22,7 @@ After that there is another selection from the committee to select participants 
 
 <br>
 
+On July 29 2023, Zake took the Ethical Hacker Essentials exam from the Ec Council and finally he passed with a score of 82.7. The certificate was issued with code ECC0387546912 on July 29 2023 which will then end on July 28 2026. Verified badge information is [here](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=wAaU9d6jF68dIS+nSnzcufj+bNRL93lEYuMKuOSbMwQ=)
+
 ![EHE](/experience/digitalent/EHE-_logo.jpg#center)
 
